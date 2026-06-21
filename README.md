@@ -30,11 +30,11 @@ A simple e-commerce website built with PHP, MySQL, HTML, CSS and JavaScript.
 
 ### 📄 Product Page
 
-![Product](screenshots/product-page.png)
+![Product](screenshots/product.png)
 
-### 🛒 Cart
+### 🛒 Checkout
 
-![Cart](screenshots/cart.png)
+![Checkout](screenshots/checkout.png)
 
 ### 📦 My Orders
 
@@ -42,7 +42,8 @@ A simple e-commerce website built with PHP, MySQL, HTML, CSS and JavaScript.
 
 ### 🧑‍💼 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-Dashboard.png)
+![Admin Dashboard](screenshots/admin%20Dashboard.png)
+
 
 ## 👨‍💻 Author
 
