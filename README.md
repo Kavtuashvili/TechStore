@@ -1,20 +1,18 @@
 # 🛒 TechStore
 
-A simple e-commerce website built with PHP, MySQL, HTML, CSS and JavaScript.
-
+TechStore is a simple e-commerce web application that I built using PHP and MySQL. The project allows users to browse products, add items to their cart, place orders, and view their order history. It also includes an admin dashboard for managing products and customer orders.
 
 ## 🚀 Features
 
-* Product catalog
-* Product details page
-* Shopping cart
-* Checkout system
-* Order history
+* Browse products
+* View product details
+* Add items to cart
+* Place orders
+* View order history
 * User authentication
 * Admin dashboard
 * Product management
 * Order management
-
 
 ## 🧱 Tech Stack
 
