@@ -2,6 +2,7 @@
 
 A simple e-commerce website built with PHP, MySQL, HTML, CSS and JavaScript.
 
+
 ## 🚀 Features
 
 * Product catalog
@@ -14,6 +15,7 @@ A simple e-commerce website built with PHP, MySQL, HTML, CSS and JavaScript.
 * Product management
 * Order management
 
+
 ## 🧱 Tech Stack
 
 * PHP
@@ -22,27 +24,29 @@ A simple e-commerce website built with PHP, MySQL, HTML, CSS and JavaScript.
 * CSS3
 * JavaScript
 
+  
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshot/home.png)
 
 ### 📄 Product Page
 
-![Product](screenshots/product.png)
+![Product](screenshot/product.png)
 
 ### 🛒 Checkout
 
-![Checkout](screenshots/checkout.png)
+![Checkout](screenshot/checkout.png)
 
 ### 📦 My Orders
 
-![My Orders](screenshots/my-orders.png)
+![My Orders](screenshot/my-orders.png)
 
 ### 🧑‍💼 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin%20Dashboard.png)
+![Admin Dashboard](screenshot/admin%20Dashboard.png)
 
 
 ## 👨‍💻 Author
